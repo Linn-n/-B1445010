@@ -114,3 +114,7 @@ if st.sidebar.button("開始全自動數據分析"):
         )
 else:
     st.info("👈 請在左側側邊欄點擊按鈕，開始抓取數據。")
+
+
+#pip install yfinance streamlit pandas mplfinance requests openpyxl
+#streamlit run app.py
