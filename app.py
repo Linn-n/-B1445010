@@ -116,5 +116,6 @@ else:
     st.info("👈 請在左側側邊欄點擊按鈕，開始抓取數據。")
 
 
+#cd C:\Users\USER\OneDrive\Desktop
 #pip install yfinance streamlit pandas mplfinance requests openpyxl
 #streamlit run app.py
