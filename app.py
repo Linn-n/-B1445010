@@ -16,7 +16,7 @@ def check_password():
     if st.session_state["password_correct"]:
         return True
 
-    st.title(" 歡迎使用台股自動化分析系統")
+    st.title(" 2026 0529歡迎使用台股自動化分析系統")
     st.subheader("本系統僅供報告展示使用，請輸入密碼解鎖內容。")
     user_password = st.text_input("請輸入訪問密碼", type="password")
     if st.button("確認登入"):
